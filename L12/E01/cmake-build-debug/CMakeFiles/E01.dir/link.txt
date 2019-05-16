@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/E01.dir/main.c.o CMakeFiles/E01.dir/graph.c.o CMakeFiles/E01.dir/ST.c.o  -o E01 

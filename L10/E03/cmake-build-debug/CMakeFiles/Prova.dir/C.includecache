@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/gabriele/Desktop/Prova/ST.h
+
+/home/gabriele/Desktop/Prova/graph.c
+graph.h
+/home/gabriele/Desktop/Prova/graph.h
+ST.h
+/home/gabriele/Desktop/Prova/ST.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
+/home/gabriele/Desktop/Prova/graph.h
+

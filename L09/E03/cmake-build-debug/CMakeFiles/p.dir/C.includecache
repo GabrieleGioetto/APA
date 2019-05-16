@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/gabriele/Desktop/Algoritmi/Esercizi/L09/E03/equipArray.h
+
+/home/gabriele/Desktop/Algoritmi/Esercizi/L09/E03/inv.h
+
+/home/gabriele/Desktop/Algoritmi/Esercizi/L09/E03/invArray.h
+
+/home/gabriele/Desktop/Algoritmi/Esercizi/L09/E03/pg.h
+
+/home/gabriele/Desktop/Algoritmi/Esercizi/L09/E03/pgList.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+pgList.h
+/home/gabriele/Desktop/Algoritmi/Esercizi/L09/E03/pgList.h
+inv.h
+/home/gabriele/Desktop/Algoritmi/Esercizi/L09/E03/inv.h
+pg.h
+/home/gabriele/Desktop/Algoritmi/Esercizi/L09/E03/pg.h
+stat.h
+/home/gabriele/Desktop/Algoritmi/Esercizi/L09/E03/stat.h
+equipArray.h
+/home/gabriele/Desktop/Algoritmi/Esercizi/L09/E03/equipArray.h
+invArray.h
+/home/gabriele/Desktop/Algoritmi/Esercizi/L09/E03/invArray.h
+
+/home/gabriele/Desktop/Algoritmi/Esercizi/L09/E03/pgList.h
+
+/home/gabriele/Desktop/Algoritmi/Esercizi/L09/E03/stat.h
+

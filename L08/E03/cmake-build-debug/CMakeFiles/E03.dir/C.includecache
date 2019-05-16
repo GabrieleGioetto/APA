@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/gabriele/Desktop/Algoritmi/Esercizi/L08/E03/inventario.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+inventario.h
+/home/gabriele/Desktop/Algoritmi/Esercizi/L08/E03/inventario.h
+
+/home/gabriele/Desktop/Algoritmi/Esercizi/L08/E03/inventario.h
+
+/home/gabriele/Desktop/Algoritmi/Esercizi/L08/E03/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+personaggi.h
+/home/gabriele/Desktop/Algoritmi/Esercizi/L08/E03/personaggi.h
+inventario.h
+/home/gabriele/Desktop/Algoritmi/Esercizi/L08/E03/inventario.h
+
+/home/gabriele/Desktop/Algoritmi/Esercizi/L08/E03/personaggi.c
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+personaggi.h
+/home/gabriele/Desktop/Algoritmi/Esercizi/L08/E03/personaggi.h
+
+/home/gabriele/Desktop/Algoritmi/Esercizi/L08/E03/personaggi.h
+

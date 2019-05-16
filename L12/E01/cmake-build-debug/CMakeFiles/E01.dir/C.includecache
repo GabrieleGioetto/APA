@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/gabriele/Desktop/Algoritmi/Esercizi/L12/E01/ST.h
+
+/home/gabriele/Desktop/Algoritmi/Esercizi/L12/E01/graph.c
+graph.h
+/home/gabriele/Desktop/Algoritmi/Esercizi/L12/E01/graph.h
+ST.h
+/home/gabriele/Desktop/Algoritmi/Esercizi/L12/E01/ST.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+limits.h
+-
+
+/home/gabriele/Desktop/Algoritmi/Esercizi/L12/E01/graph.h
+

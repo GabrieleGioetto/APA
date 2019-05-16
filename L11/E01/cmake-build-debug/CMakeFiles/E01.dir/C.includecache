@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/gabriele/Desktop/Algoritmi/Esercizi/L11/E01/BSTquotazioniGiornaliere.h
+quotazioneGiornaliera.h
+/home/gabriele/Desktop/Algoritmi/Esercizi/L11/E01/quotazioneGiornaliera.h
+
+/home/gabriele/Desktop/Algoritmi/Esercizi/L11/E01/ListTitoli.c
+ListTitoli.h
+/home/gabriele/Desktop/Algoritmi/Esercizi/L11/E01/ListTitoli.h
+titolo.h
+/home/gabriele/Desktop/Algoritmi/Esercizi/L11/E01/titolo.h
+data.h
+/home/gabriele/Desktop/Algoritmi/Esercizi/L11/E01/data.h
+BSTquotazioniGiornaliere.h
+/home/gabriele/Desktop/Algoritmi/Esercizi/L11/E01/BSTquotazioniGiornaliere.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
+/home/gabriele/Desktop/Algoritmi/Esercizi/L11/E01/ListTitoli.h
+titolo.h
+/home/gabriele/Desktop/Algoritmi/Esercizi/L11/E01/titolo.h
+
+/home/gabriele/Desktop/Algoritmi/Esercizi/L11/E01/data.h
+
+/home/gabriele/Desktop/Algoritmi/Esercizi/L11/E01/quotazioneGiornaliera.h
+data.h
+/home/gabriele/Desktop/Algoritmi/Esercizi/L11/E01/data.h
+
+/home/gabriele/Desktop/Algoritmi/Esercizi/L11/E01/titolo.h
+BSTquotazioniGiornaliere.h
+/home/gabriele/Desktop/Algoritmi/Esercizi/L11/E01/BSTquotazioniGiornaliere.h
+

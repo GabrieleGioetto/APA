@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/E01.dir/main.c.o CMakeFiles/E01.dir/data.c.o CMakeFiles/E01.dir/titolo.c.o CMakeFiles/E01.dir/BSTquotazioniGiornaliere.c.o CMakeFiles/E01.dir/quotazioneGiornaliera.c.o CMakeFiles/E01.dir/ListTitoli.c.o  -o E01 

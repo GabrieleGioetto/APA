@@ -1,0 +1,4 @@
+A0001 Gabriele Gioetto 01/10/1998 Monviso Torino 12050
+A0003 Andrea Monti 01/11/1998 Torri Bra 12040
+A0002 Jim Helpert 01/09/1998 Giangia Torino 12050
+A0004 Dwigth Schrute 02/10/1998 Carri Cuneo 12030

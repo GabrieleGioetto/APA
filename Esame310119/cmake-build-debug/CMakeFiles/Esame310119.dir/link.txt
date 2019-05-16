@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Esame310119.dir/main.c.o CMakeFiles/Esame310119.dir/Graph.c.o CMakeFiles/Esame310119.dir/ST.c.o  -o Esame310119 

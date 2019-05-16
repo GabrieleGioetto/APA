@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Prova.dir/graph.c.o CMakeFiles/Prova.dir/main.c.o CMakeFiles/Prova.dir/ST.c.o  -o Prova 

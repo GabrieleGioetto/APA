@@ -1,0 +1,8 @@
+6
+ruota 0 1 0 0 0 0.0 1
+rondata 0 1 0 0 0 0.2 1
+triple_front_tuck 2 1 1 1 1 6.5 8
+triple_back_tuck 1 0 0 1 1 6.0 8
+back_handspring 0 0 0 0 0 0.4 2
+front_tuck 2 1 1 0 0 1.75 3
+front_pike 2 1 1 0 0 2.0 4

@@ -1,0 +1,18 @@
+8
+camicia
+cravatta
+giacca
+cintura
+slip
+scarpe
+pantaloni
+calzini
+camicia cravatta 4
+cravatta giacca 6
+camicia cintura 3
+cintura giacca 4
+slip scarpe 5
+slip pantaloni 3
+calzini scarpe 4
+pantaloni scarpe 5
+pantaloni cintura 2
